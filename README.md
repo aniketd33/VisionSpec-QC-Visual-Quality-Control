@@ -139,19 +139,7 @@ The system includes a production simulation using:
 
 ## 📂 Project Structure
 
-VisionSpec_QC/
-│
-├── data/
-├── quality_model.h5
-├── train.py
-├── gradcam.py
-├── realtime_inference.py
-├── video_demo.py
-├── create_synthetic_video.py
-├── sample_production_video.mp4
-├── gradcam_result.jpg
-├── requirements.txt
-└── README.md
+<img width="313" height="185" alt="image" src="https://github.com/user-attachments/assets/f4e55020-b23d-45b9-9b3a-bd637cd314d0" />
 
 
 ---
@@ -184,3 +172,4 @@ This system simulates:
 AI & Machine Learning Intern  
 
 VisionSpec QC – Production ML
+
