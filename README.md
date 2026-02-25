@@ -12,6 +12,8 @@ The system classifies each captured image as:
 Additionally, it provides visual interpretability using **Grad-CAM**, highlighting the exact defect region to ensure transparency and reliability in industrial deployment.
 
 ---
+## Live Demo Link:
+  [https://visionspec-qc-visual-quality-control-fbow6bzwr2cjkqmhcpev2v.streamlit.app/]
 
 ## 🎯 Problem Statement
 
@@ -172,4 +174,5 @@ This system simulates:
 AI & Machine Learning Intern  
 
 VisionSpec QC – Production ML
+
 
